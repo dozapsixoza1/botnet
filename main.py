@@ -8,8 +8,8 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Конфиг
-tokenTgBot = ''
-botikUrl = ''
+tokenTgBot = '7228441374:AAE9nMsynXHOM-oOpAEnXFIY9Cl2LS5oskM'
+botikUrl = 'http://t.me/teleg_ne_bot'
 fileNameOnServer = 'alexandria.exe'
 commands = '''/command [идентификатор] [акт*значение]
 /getdatabase
