@@ -1,6 +1,6 @@
 <?php 
 
-$GLOBALS['7205334787:AAHAyOnueEPgfjiMKaiHsKBot1Ozha2Goc0'] = "";
+$GLOBALS[''] = "";
 $TgChatId = "";
 $FileNameToUpdate = "alexandria.exe";
   
